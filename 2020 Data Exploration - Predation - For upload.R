@@ -1,7 +1,6 @@
-#### Short term data exploration - for predation 
-## Working Directory: 
-
-setwd("~/Desktop/TAST-  Data Cache and R Scripts/Data - csv")
+#Whatcom TAST - Data Exploration - Predation (foraging success) 
+#Script written by Kathleen McKeegan
+#Last update made 9/30/2023
 
 ## Load Packages for Script
 library('tidyverse')
