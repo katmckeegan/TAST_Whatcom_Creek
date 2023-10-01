@@ -2,10 +2,6 @@
 #Script written by Kathleen McKeegan
 #Last update made 9/30/2023
 
-## Working Directory: 
-
-setwd("~/Desktop/TAST-  Data Cache and R Scripts/Data - csv")
-
 ## Load Packages
 library('tidyverse')
 library('glmmTMB')
