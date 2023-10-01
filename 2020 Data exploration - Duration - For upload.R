@@ -2,8 +2,6 @@
 # TAST Whatcom Creek Manuscript 
 # Last update made by Kathleen McKeegan 9/15/2023
 
-setwd("~/Desktop/TAST-  Data Cache and R Scripts/Data - csv")
-
 ## Load Packages for Script
 library('tidyverse')
 
